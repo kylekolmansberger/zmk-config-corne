@@ -59,10 +59,10 @@
 
         games {
             bindings = <
-&kp T  &kp F      &kp Q  &kp W     &kp E  &kp R        &trans  &trans  &trans    &trans  &trans  &kp BSPC
-&kp G  &kp LCTRL  &kp A  &kp S     &kp D  &kp F        &trans  &trans  &trans    &trans  &trans  &trans
-&kp B  &kp LSHFT  &kp Z  &kp X     &kp C  &kp V        &trans  &trans  &trans    &trans  &trans  &trans
-                         &kp LALT  &mo 4  &kp SPACE    &trans  &to 0   &kp LGUI
+&kp T  &kp F      &kp Q  &kp W     &kp E  &kp R        &trans     &trans  &trans    &trans  &trans  &kp BSPC
+&kp G  &kp LCTRL  &kp A  &kp S     &kp D  &kp F        &trans     &trans  &trans    &trans  &trans  &trans
+&kp B  &kp LSHFT  &kp Z  &kp X     &kp C  &kp V        &trans     &trans  &trans    &trans  &trans  &trans
+                         &kp LALT  &mo 4  &kp SPACE    &kp ENTER  &to 0   &kp LGUI
             >;
         };
 
